@@ -8,4 +8,3 @@ for(let i=0; i<countries.length; i++){
     resultArray.push(temp);
 }
 console.log(resultArray);
-const countries= ['Finland','Denmark','Sweden','Norway','Iceland']
